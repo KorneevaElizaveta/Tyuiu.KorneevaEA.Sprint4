@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Tyuiu.KorneevaEA.Sprint4\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib\bin\Debug\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib.dll
+C:\Users\1\source\repos\Tyuiu.KorneevaEA.Sprint4\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib\bin\Debug\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib.pdb
+C:\Users\1\source\repos\Tyuiu.KorneevaEA.Sprint4\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\1\source\repos\Tyuiu.KorneevaEA.Sprint4\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib\obj\Debug\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Tyuiu.KorneevaEA.Sprint4\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib\obj\Debug\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib.csproj.CopyComplete
+C:\Users\1\source\repos\Tyuiu.KorneevaEA.Sprint4\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib\obj\Debug\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib.dll
+C:\Users\1\source\repos\Tyuiu.KorneevaEA.Sprint4\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib\obj\Debug\Tyuiu.KorneevaEA.Sprint4.Task6.V3.Lib.pdb
